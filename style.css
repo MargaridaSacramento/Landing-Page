@@ -1,0 +1,93 @@
+body{
+	margin: 0px;
+	font-family: Roboto,Arial,sans-serif;
+	line-height: 24px;
+	background-color: #EFBBA1;
+}
+/* comentario */ 
+header{
+	/*color: #6b5533;*/
+	text-align: center;
+	padding: 120px 10px;
+	background-image:url(fogo.jpg) ;
+	background-size:  cover;
+	background-position: center;
+
+}
+
+div{
+	max-width: 900px;
+	margin: 40px auto;
+	padding: 10px;
+/*	background-color: #EFBBA1;*/
+}
+
+footer{
+	text-align: center;
+	padding: 20px;
+	background-color: #2B677C;
+}
+/*
+a{
+	color: #EFBBA1;
+}
+
+a:hover {
+	color: #ffefe8;
+}
+*/
+/*.purple{
+	background-color: mediumpurple;
+}
+
+.color-white{
+	color: whitesmoke;
+}
+*/
+.botao{
+	background-color: #164455;
+	padding: 10px 20px;
+	border-radius: 24px;
+	text-decoration: none;
+	color:  #ffefe8;
+	font-weight: bold;
+}
+
+.botao:hover{
+	color: #2B667C;
+}
+
+.lista-links { /*todos os li da lista-links*/ /* a se fosse so os a*/
+	list-style: none;
+	padding-left: 0 ;
+	margin-bottom: 0;
+}
+
+.lista-links a{
+	color: #EFBBA1;
+}
+
+.lista-links a: hover{
+	color: #ffefe8;
+}
+
+.lista-links li{
+	display: inline;
+	margin: 0 10px;
+}
+
+h1 {
+	font-family: Lobster,Arial,sans-serif;
+	font-size: 65px;
+	color: #6b5533;
+	text-shadow: 2px 2px 4px rgb(0,0,0); /*#ffefe8*/
+}
+h2{
+	font-family: Montserrat,Arial,sans-serif;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+
+.pergunta{
+	margin-bottom: 40px;
+}
