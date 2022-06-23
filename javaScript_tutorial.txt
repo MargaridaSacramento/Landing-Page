@@ -1,0 +1,64 @@
+//Numeros
+/*console.log("hello word")
+console.log(typeof(4.2))
+*/
+
+//boleanos
+//true or false
+/*console.log(typeof(true))
+console.log(2>1)
+*/
+//strings
+/*console.log(typeof("jonh"))
+console.log(typeof("1"))
+console.log("42"+"2")*/
+
+//objetos
+/*
+const meuCarro = new Object();
+meuCarro.marca= "Ford"
+meuCarro.cor="verde"
+
+console.log(meuCarro["cor"])*/
+
+//undefine
+/*let name;
+console.log(name)
+
+name=null;
+console.log(name)*/
+    
+    
+//variaveis
+/*let name="bea"
+name="maria"
+*/
+
+//const
+/*
+const meuano=2002
+meuano=2000 //erro
+*/
+//if
+/*const tempo="chuva"
+
+if(tempo=="chuva"){
+ 
+ console.log("leva guarda chuva")
+  
+}*/
+
+//array
+/*const Students=["a","s"]
+console.log(Students.length)
+Students[0]="1";
+
+for(let i=0; i<Students.length;i=i+1){
+  console.log(Students[i])
+}
+   */ 
+//forEach
+/*Students.forEach((Student)=>{
+      console.log(Student)
+})
+   */
